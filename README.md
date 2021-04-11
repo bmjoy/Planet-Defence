@@ -1,6 +1,6 @@
 # Planet-Defence
 
-Tower denfense game
+Tower defense game
 
 ![pd1](https://user-images.githubusercontent.com/82329995/114314555-3bdfe400-9b36-11eb-9086-b0a075dddab8.png)
 
