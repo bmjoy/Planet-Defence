@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CHOICE
+  - ENEMY_CNT
+  - PLANET_HP
+  - RESOURCE
+  - MINIPLANET
+  - PLANET
+  - LABORATORY_POPUP
+  - LAB
+  - LABINFO
+  - LABBUTTON
+  - TURRET_SUPPORT
+  - NORMAL_TURRET
+  - BUILD_POPUP
+  - BUILDINFO
+  - REPAIRINFO
+  - REMOVEINFO
+  - REPAIRBUTTON
+  - BUILDBUTTON
+  - BATTLESTATIC
+  - SPACESHIP_NORMAL
+  - SPACESHIP_DUMMY
+  - BUILDBUTTON_BLACK
+  - TURRET_NORMAL
+  - PLANET_HIT
+  - Card
+  - SHIELD
+  - TURRET_SHIELD
+  - BUILDIMAGE_BLACK
+  - BUILDSTARTBUTTON
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround0
+    uniqueID: 2704018043
+    locked: 0
+  - name: BackGround1
+    uniqueID: 2680794011
+    locked: 0
+  - name: SpaceShip0
+    uniqueID: 1219103143
+    locked: 0
+  - name: SpaceShip1
+    uniqueID: 1825579245
+    locked: 0
+  - name: TurretSupport0
+    uniqueID: 3633886639
+    locked: 0
+  - name: Turret0
+    uniqueID: 3271386761
+    locked: 0
+  - name: Shield
+    uniqueID: 1686821933
+    locked: 0
+  - name: SpaceShip_Bullet0
+    uniqueID: 1780442137
+    locked: 0
+  - name: SpaceShip_Bullet1
+    uniqueID: 3352041389
+    locked: 0
+  - name: Turret_Bullet0
+    uniqueID: 2045242963
+    locked: 0
+  - name: Turret_Bullet1
+    uniqueID: 3175762473
+    locked: 0
+  - name: Effect_Esplosion0
+    uniqueID: 3740830739
+    locked: 0
+  - name: TurretHpBar_Back
+    uniqueID: 71970953
+    locked: 0
+  - name: TurretHpBar_Front
+    uniqueID: 1955051215
+    locked: 0
